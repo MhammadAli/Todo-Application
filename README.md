@@ -1,6 +1,6 @@
-# Todo Application
+# Done-Zone Application
 
-Welcome to the Todo Application! This app is a sleek, intuitive, and efficient task management tool built with Flutter. It allows users to organize their tasks effortlessly with features like due dates and more. The app leverages powerful state management and a local SQLite database for robust functionality.
+Welcome to the Done-Zone Application! This app is a sleek, intuitive, and efficient task management tool built with Flutter. It allows users to organize their tasks effortlessly with features like due dates and more. The app leverages powerful state management and a local SQLite database for robust functionality.
 
 ---
 
